@@ -17,3 +17,5 @@
 - [Самостоятельная работа 1](https://github.com/m4deme1ns4ne/DATA-BASE-3-SEM/tree/main/Самостоятельная%20работа%201)
 
 ---
+
+- [Самостоятельная работа 2](https://github.com/m4deme1ns4ne/DATA-BASE-3-SEM/blob/main/Самостоятельная%20работа%202/Задания.md)
